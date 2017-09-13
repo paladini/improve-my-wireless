@@ -1,0 +1,3 @@
+/usr/bin/com.github.paladini.improvemywireless
+/usr/share/applications/com.github.paladini.improvemywireless.desktop
+/usr/share/metainfo/com.github.paladini.improvemywireless.appdata.xml

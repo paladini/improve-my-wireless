@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+249ec52cb3dd203a22b3082b6a6382cb com.github.paladini.improvemywireless_valac.stamp
+120dda8acac424bb3da85a910ec4e0b4 src/hello_world.c
