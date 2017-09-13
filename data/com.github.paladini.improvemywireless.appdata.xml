@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Fernando Paladini <fnpaladini@gmail.com> -->
+<component type="desktop">
+  <id>com.github.paladini.improvemywireless.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Improve My Wireless</name>
+  <summary>Improves your computer Wireless signal by disabling power manager for your networking device.</summary>
+  <description>
+    <p>Improves your computer Wireless signal by disabling power manager for your networking device. By default, power management is enabled by ElementaryOS and this configuration make it's have a poor performance on wireless networks. This softwares solves this problem forever.</p>
+  </description>
+</component>
