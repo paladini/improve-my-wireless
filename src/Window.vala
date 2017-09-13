@@ -1,4 +1,4 @@
-namespace Dictopia {
+namespace ImproveMyWireless {
 
     class Window: Gtk.ApplicationWindow {
         private Gtk.HeaderBar header_bar;
@@ -12,7 +12,7 @@ namespace Dictopia {
         }
 
         void build_ui () {
-            header_bar = new Dictopia.Widgets.HeaderBar();
+            header_bar = new ImproveMyWireless.Widgets.HeaderBar();
             this.set_titlebar (header_bar);
         }
     }

@@ -1,7 +1,7 @@
-namespace Dictopia {
+namespace ImproveMyWireless {
 
     class Widgets.HeaderBar: Gtk.HeaderBar {
-        Dictopia.Application app;
+        ImproveMyWireless.Application app;
 
         private Granite.Widgets.ModeButton mode_button;
         private Gtk.Button bookmark_button;
@@ -9,10 +9,10 @@ namespace Dictopia {
         private Granite.Widgets.AppMenu menu_button;
 
 
-        public HeaderBar (Dictopia.Application app) {
+        public HeaderBar (ImproveMyWireless.Application app) {
             this.app = app;
 
-            this.title = "Dictopia";
+            this.title = "ImproveMyWireless";
             this.show_close_button = true;
             
             this.build_ui ();
