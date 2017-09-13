@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ImproveMyWireless
+GenericName=Improve My Wireless App
+Comment=Improves your computer Wireless signal by disabling power manager for your networking device.
+Categories=Utility;System;Internet;
+Exec=improvemywireless
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=hello-again
+Keywords=Improve;Better;Signal;Wireless;Wi-Fi;Internet
